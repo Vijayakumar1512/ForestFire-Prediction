@@ -1,3 +1,7 @@
+Forest Fire Prediction Using ML:
+PROBLEM STATEMENT: Build a machine learning model that predicts and detects potential forest fire outbreaks based on environmental factors, helping in early intervention and prevention.
+
+
 ABSTRACT:
   This project is about predicting a area coverage and its covertype of forest fire based on the previous datasets collected form online sources.
   In this project the machine learning algorithms used are Extra Tree Classifier and Random forest.
