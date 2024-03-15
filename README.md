@@ -15,4 +15,4 @@ Slit 4:
   Splitting of training and testing datasets for train and test the predictivity of the model.
 
 Slit 5:
-  After testing the model and comparing the predicted values and test dataset values, we can finding acurracy.
+  After testing the model and comparing the predicted values and test dataset values, we can find acurracy.
